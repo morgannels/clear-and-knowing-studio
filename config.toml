@@ -25,7 +25,7 @@ pygmentsCodefences       = true
     text = "outermost"
 
 [[params.mainMenu]]
-    link = "/portfolio"
+    link = "/intersectional"
     text = "intersectional"
 
 [[params.mainMenu]]

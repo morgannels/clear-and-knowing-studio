@@ -21,10 +21,6 @@ pygmentsCodefences       = true
     title                = "Clear and Knowing"
 
 [[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
-
-[[params.mainMenu]]
     link = "/gallery"
     text = "gallery"
 

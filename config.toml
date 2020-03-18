@@ -22,15 +22,15 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/gallery"
-    text = "gallery"
+    text = "outermost"
 
 [[params.mainMenu]]
     link = "/portfolio"
-    text = "portfolio"
+    text = "intersectional"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who is sam?"
+    text = "clear and knowing"
 
 [imaging]
     quality = 75
